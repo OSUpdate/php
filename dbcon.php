@@ -7,7 +7,7 @@ $serverName = "localhost";
 
 $uid = "admin";
 
-$pwd = "tjdwls124;
+$pwd = "";
 
 $connectionInfo = array( "UID"=>$uid,
 
